@@ -45,7 +45,7 @@ python cluster_tls_eval.py --input "./data" --output "./cluster_output" --datase
 ### Download Dataset
 To download datasets(T17, Crisis, Entities), please refer to [complementizer/news-tls ](https://github.com/complementizer/news-tls).
 
-### Workflow
+### Workflow ()
 1. To preprocess dataset articles to certain format, please refer to ```preprocess_articles.py```
 ```
 python preprocess_articles.py --ds_path "./datasets" --dataset "entities" --save_path "./corpus"
